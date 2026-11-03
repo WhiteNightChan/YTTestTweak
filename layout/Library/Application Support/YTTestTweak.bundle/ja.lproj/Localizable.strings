@@ -1,0 +1,10 @@
+"SETTINGS_SECTION_TITLE" = "Test Tweak";
+
+"SETTINGS_RESTART_REQUIRED_HEADER" = "変更を適用するにはアプリの再起動が必要です";
+
+"SETTINGS_WATCH_UI_HEADER" = "視聴中画面のUI";
+
+"SETTINGS_HIDE_COMMENT_PREVIEW_TITLE" = "コメントプレビューを非表示";
+"SETTINGS_HIDE_COMMENT_PREVIEW_DESCRIPTION" = "動画プレーヤー下のコメントプレビューを非表示にします。";
+
+"SETTINGS_VERSION_TITLE" = "バージョン";

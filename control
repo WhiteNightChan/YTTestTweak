@@ -1,0 +1,9 @@
+Package: com.whitenightchan.yttesttweak
+Name: YTTestTweak
+Description: This is a test tweak.
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: WhiteNightChan
+Author: WhiteNightChan
+Section: Tweaks
+Depends: ellekit
